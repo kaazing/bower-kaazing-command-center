@@ -1,6 +1,6 @@
 {
     "name": "kaazing-command-center",
-    "version": "5.0.0-10",
+    "version": "5.0.0-11",
     "ignore": [],
     "dependencies": {}
 }
