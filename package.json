@@ -1,6 +1,6 @@
 {
     "name": "kaazing-command-center",
-    "version": "5.0.0-30",
+    "version": "5.0.0-31",
     "description": "The Kaazing Command Center web application.",
     "repository": {
         "type": "git",
